@@ -1,0 +1,4 @@
+0 - A MOVER #1
+1 - B ADD #2
+2 - C MOVEM #3
+3 - MEND -
